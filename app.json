@@ -1,4 +1,6 @@
 {
-  "name": "reactNativeResponsiveUI",
-  "displayName": "reactNativeResponsiveUI"
+  "name": "pootatos",
+  "displayName": "Pootatos",
+  "orientation": "portrait",
+  "plugins": ["@notifee/react-native"]
 }
